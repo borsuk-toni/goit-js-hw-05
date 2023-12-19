@@ -8,7 +8,7 @@ const getTotalBalanceByGender = (users, gender) => users
 
 // test calls //
 
-const allUsers = [
+allUsers = [
     {
     name: "Moore Hensley",
     gender: "male",

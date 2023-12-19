@@ -6,7 +6,7 @@ const getUsersWithFriend = (users, friendName) => users.filter(user => user.frie
 
 // test calls //
 
-const allUsers = [
+let allUsers = [
   {
     name: "Moore Hensley",
     friends: ["Sharron Pace"]
